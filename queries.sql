@@ -1,4 +1,10 @@
 ## Part 1: Test it with SQL
+Columns:
+id - INT
+employer - VARCHAR
+name - VARCHAR
+skills - VARCHAR
+
 
 ## Part 2: Test it with SQL
 
